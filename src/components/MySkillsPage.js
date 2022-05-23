@@ -134,7 +134,7 @@ I value  for which i'm creating, thus i enjoy bringing new ideas to life.
 <strong>Skills</strong>
 <p>
 Html, Css, Js, Python,Java,
-Mysql,MangoDB,C/C++,
+Mysql,MongoDB,C/C++,
 React,AWS,Azure etc.
 </p>
 </Description>
