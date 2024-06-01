@@ -35,8 +35,8 @@ export const Work = [
         description:"Paint is a replica of MS Paint, is a simple program that allows users to create basic graphic art on a computer.",
         tags:["Paint","mspaint","replica","javascript"],
         
-        demo:"https://vercel.com/yaswanthteja/paint",
-        github:"https://github.com/yaswanthteja/Paint"
+        demo:"https://virtualboard-nu.vercel.app/",
+        github:"https://github.com/yaswanthteja/Virtual_Board.git"
        
     },{
         id:5,
