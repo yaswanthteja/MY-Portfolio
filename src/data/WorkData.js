@@ -31,9 +31,9 @@ export const Work = [
     },
     {
         id:4,
-        name:"Paint",
-        description:"Paint is a replica of MS Paint, is a simple program that allows users to create basic graphic art on a computer.",
-        tags:["Paint","mspaint","replica","javascript"],
+        name:"Virtual Board",
+        description:"Virtual Board is a simple program that allows users to create basic graphic art on a computer.",
+        tags:["Paint","Virtualboard","javascript"],
         
         demo:"https://virtualboard-nu.vercel.app/",
         github:"https://github.com/yaswanthteja/Virtual_Board.git"
