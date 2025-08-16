@@ -1,6 +1,6 @@
 # Build a Stunning Portfolio with React JS using Styled-Components and framer-motion for awesome Animations
 
-This repository contains Final code for The Portfolio Website in ReactJS. Made by Codebucks, i'm using his repo to create my portfolio <br />
+This repository contains the Final code for the Portfolio Website in ReactJS. Made by Codebucks, I'm using his repo to create my portfolio <br />
 
 # [View Demo](https://yaswanthteja.vercel.app)
 https://yaswanthteja.vercel.app/ <br />
